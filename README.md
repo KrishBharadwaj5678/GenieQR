@@ -1,7 +1,9 @@
-# 🧞 GenieQR
+# ⚡GenieQR
 
 **GenieQR** is a simple and efficient QR code generator built with Python and Streamlit.
 Easily convert text, links, or any data into QR codes for quick sharing and seamless connectivity.
+
+![GenieQRDemo](https://github.com/KrishBharadwaj5678/GenieQR/raw/main/GenieQRDemo.png)
 
 ## ✨ Features
 
