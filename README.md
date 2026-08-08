@@ -1,33 +1,51 @@
-# ⚡GenieQR
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KrishBharadwaj5678&label=Profile%20Views&color=brightgreen&style=for-the-badge" />
+  <img src="https://hits.sh/github.com/KrishBharadwaj5678/GenieQR.svg?style=for-the-badge&label=Repo%20Views&color=blue" />
+  <img src="https://img.shields.io/github/stars/KrishBharadwaj5678/GenieQR?style=for-the-badge&color=yellow" />
+  <img src="https://img.shields.io/github/last-commit/KrishBharadwaj5678/GenieQR?style=for-the-badge&color=orange" />
+  <img src="https://img.shields.io/github/repo-size/KrishBharadwaj5678/GenieQR?style=for-the-badge&color=blue" />
+</p>
 
-**GenieQR** is a simple and efficient QR code generator built with Python and Streamlit.
-Easily convert text, links, or any data into QR codes for quick sharing and seamless connectivity.
+<p align="center">
+  <a href="README.md">English</a> | 
+  <a href="README.pt.md">Português</a> | 
+  <a href="README.ja.md">日本語</a> | 
+  <a href="README.ru.md">Русский</a>
+</p>
+
+<h1 align="center"><img src="https://github.com/KrishBharadwaj5678/GenieQR/raw/main/assets/icon/icon.png" width="30"/> GenieQR</h1>
+
+<p align="center">
+  GenieQR enables users to quickly transform text, URLs, and other data into high-quality QR codes, making information sharing faster, simpler, and more accessible.
+</p>
 
 ![GenieQRDemo](https://github.com/KrishBharadwaj5678/GenieQR/raw/main/GenieQRDemo.png)
 
-## ✨ Features
+<img src="https://github.com/KrishBharadwaj5678/GenieQR/raw/main/assets/readme/divider.gif" width="100%"/>
+
+## <img src="https://github.com/KrishBharadwaj5678/GenieQR/raw/main/assets/readme/features.gif" width="35"/> Features
 
 | Feature               | Description                                   |
 | --------------------- | --------------------------------------------- |
-| 🔳 QR Code Generation | Instantly generate QR codes from text or URLs |
+| 🧩 QR Code Generation | Instantly generate QR codes from text or URLs |
 | ⚡ Fast & Simple       | Quick and easy-to-use interface               |
 | 🎨 Clean UI           | Minimal design powered by Streamlit           |
 | 📥 Download Option    | Save generated QR codes                       |
 | 🌐 Web-Based          | Runs directly in your browser                 |
 
----
+<img src="https://github.com/KrishBharadwaj5678/GenieQR/raw/main/assets/readme/divider.gif" width="100%"/>
 
-## 🛠️ Tech Stack
+## <img src="https://github.com/KrishBharadwaj5678/GenieQR/raw/main/assets/readme/techStack.gif" width="35"/> Tech Stack
 
-| Technology       | Purpose                   |
-| ---------------- | ------------------------- |
-| 🐍 **Python**    | Core programming language |
-| 🎈 **Streamlit** | Builds the interactive UI |
-| 🔳 **qrcode**    | Generates QR codes        |
+| Technology | Purpose |
+| ---------- | ------- |
+| <img src="https://skillicons.dev/icons?i=python" width="25"/> **Python** | Core programming language |
+| <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="25"/> **Streamlit** | Builds the interactive UI |
+| <img src="https://github.com/KrishBharadwaj5678/GenieQR/raw/main/assets/icon/icon.png" width="15"/> **qrcode** | Generates QR codes |
 
----
+<img src="https://github.com/KrishBharadwaj5678/GenieQR/raw/main/assets/readme/divider.gif" width="100%"/>
 
-## 🚀 Getting Started
+## <img src="https://github.com/KrishBharadwaj5678/GenieQR/raw/main/assets/readme/gettingStarted.gif" width="35"/> Getting Started
 
 ### 1️⃣ Clone the Repository
 
@@ -53,14 +71,14 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
----
+<img src="https://github.com/KrishBharadwaj5678/GenieQR/raw/main/assets/readme/divider.gif" width="100%"/>
 
-## Contributing 🤝
+## <img src="https://github.com/KrishBharadwaj5678/GenieQR/raw/main/assets/readme/license.gif" width="35"/> License
 
-Want to contribute? Here's how:
+This project is licensed under the **MIT License**.
 
-1. 🍴 Fork the repository.
-2. 🌿 Create a new branch (`git checkout -b feature-name`).
-3. ✍️ Make your changes and commit them (`git commit -am 'Add feature-name'`).
-4. 🚀 Push to your branch (`git push origin feature-name`).
-5. 🔄 Submit a pull request to merge into the main branch.
+See the [LICENSE](LICENSE) file for more details.
+
+<p align="center">
+  <img src="https://github.com/KrishBharadwaj5678/GenieQR/raw/main/assets/readme/footer.gif" width="100%"/>
+</p>
